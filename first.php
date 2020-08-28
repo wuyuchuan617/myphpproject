@@ -1,6 +1,8 @@
 <?php
 
 
-hhwhhh
+$a = 5;
+
+echo $a;
 
 ?>
