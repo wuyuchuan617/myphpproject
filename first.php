@@ -1,6 +1,7 @@
 <?php
 
 
-hhwhhh
+hhwhhh;
 
+$ a = 2; 
 ?>
